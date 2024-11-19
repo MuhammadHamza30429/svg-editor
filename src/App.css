@@ -38,11 +38,13 @@
 .container1 {
   background-image: url("../public/assets/images/tshirt.png");
   background-repeat: no-repeat;
-  display: flex;
+  /* display: flex; */
   justify-content: center; /* Horizontally center the canvas inside container1 */
-  align-items: flex-start; /* Align the canvas to the top vertically */
+  /* align-items: flex-start; */
   /* height: 100%;  */
-  height: 360px;
-  width: 360px;
+  height: 430px;
+  width: 430px;
   margin-top: 20px;
+  background-size: 110%;
+  /* background-color: red; */
 }
