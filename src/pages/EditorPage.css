@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../public/assets/images/tshirt.png");
+    background-color: black;
+    height: 1000px;
+    width: 1000px;
+    position: relative;
+}
